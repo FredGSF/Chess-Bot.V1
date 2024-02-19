@@ -1,5 +1,5 @@
 # Chess Assistant
-
+ 
 Welcome to the Chess Assistant project! This Python project aims to create a chess-playing assistant that provides move recommendations based on a neural network model.
 
 ## Table of Contents

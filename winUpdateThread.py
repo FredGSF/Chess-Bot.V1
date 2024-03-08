@@ -10,4 +10,3 @@ class UpdateThread(QThread):
 
     def updateBoard(self, new_board):
         self.boardSignal.emit(new_board)
-        

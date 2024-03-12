@@ -4,7 +4,7 @@ from PyQt5.QtWidgets import QProgressBar, QLabel, QPushButton
 from winUpdateThread import UpdateThread
 import utils
 import json
-
+ 
 with open("config.json") as config_file:
     config = json.load(config_file)
 

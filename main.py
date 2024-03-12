@@ -24,7 +24,7 @@ with open("config.json") as config_file:
 GECKODRIVER_PATH = utils.getGeckodriverPath()
 driver = webdriver.Firefox(executable_path=GECKODRIVER_PATH)
 driver.get("https://www.chess.com")
-
+ 
 # create App window
 app = QApplication(sys.argv)
 global window

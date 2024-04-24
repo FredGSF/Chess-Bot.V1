@@ -1,5 +1,5 @@
 from PyQt5.QtCore import QThread, pyqtSignal
-
+ 
 
 class UpdateThread(QThread):
     evalSignal = pyqtSignal(dict)

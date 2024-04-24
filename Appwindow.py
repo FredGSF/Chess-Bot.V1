@@ -2,7 +2,7 @@ from PyQt5 import QtWidgets, QtCore, QtGui, QtSvg
 from PyQt5.QtWidgets import QApplication, QDesktopWidget
 from PyQt5.QtWidgets import QProgressBar, QLabel, QPushButton
 from winUpdateThread import UpdateThread
-import utils 
+import utils
 import json 
  
 with open("config.json") as config_file:

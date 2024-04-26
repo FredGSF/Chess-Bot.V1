@@ -2,7 +2,7 @@
 
 This is a Python-based Chess bot capable of playing chess games on chess.com. It uses Selenium for web automation, PyQt5 for GUI, and Stockfish engine for chess engine functionality.  
     
-## Features
+## Features 
 
 - **Web Automation**: The bot automates interactions with chess.com using Selenium.
 - **GUI Interface**: The bot has a graphical user interface built with PyQt5, allowing users to interact with it.

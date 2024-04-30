@@ -29,7 +29,7 @@ This is a Python-based Chess bot capable of playing chess games on chess.com. It
 6. Begin a game on chess.com, and the bot will automatically start playing.
 
 ## Configuration
-
+ 
 - The bot's behavior can be configured using the `config.json` file.
 - You can adjust settings such as window size, engine parameters, and more in the configuration file.
 

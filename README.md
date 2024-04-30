@@ -1,7 +1,7 @@
 # Online Cheater Bot for chess.com 
      
 This is a Python-based Chess bot capable of playing chess games on chess.com. It uses Selenium for web automation, PyQt5 for GUI, and Stockfish engine for chess engine functionality.  
-        
+         
 ## Features    
  
 - **Web Automation**: The bot automates interactions with chess.com using Selenium.
